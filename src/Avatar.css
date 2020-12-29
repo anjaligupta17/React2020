@@ -1,0 +1,10 @@
+.mainpage{
+    width:90%;
+    height:100vh;
+    margin:auto;
+
+}
+.mainpage h1{margin:0;padding:20px 0;}
+.avatarstyle img{
+    width: 200px;height: 200px;
+}
